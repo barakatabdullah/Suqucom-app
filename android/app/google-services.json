@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "886551786756",
+    "project_id": "suqum-app",
+    "storage_bucket": "suqum-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886551786756:android:9e0389d15660e4eafa0c51",
+        "android_client_info": {
+          "package_name": "com.suqum.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886551786756-dqp8sqdn21r0f2if48mf1jrgcm9hfhan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suqum.app",
+            "certificate_hash": "14e62005bc93a1c2de7c38e95f9be288fb4c5c89"
+          }
+        },
+        {
+          "client_id": "886551786756-mscfhn29sbh0jpijgdmhig38dba8nh5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-IMXBinBXj1RYKq_b31ndXImsQjt9Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886551786756-mscfhn29sbh0jpijgdmhig38dba8nh5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886551786756-ht19oi1ftc0e8c0enotl6se33h66j2ej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
